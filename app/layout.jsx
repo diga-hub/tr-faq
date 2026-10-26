@@ -11,7 +11,7 @@ const fontSans = FontSans({
   weight: ["100", "200", "300", "400", "500", "600", "700"],
 });
 
-const repoDomain = "https://github.com/awesome-diga/tr-faq/blob/main";
+const repoDomain = "https://github.com/diga-hub/tr-faq/blob/main";
 
 export default async function RootLayout({ children }) {
   const logo = (

@@ -8,4 +8,4 @@ remarks: Der Evaluator prüft, ob es dem Nutzer möglich ist sensible Daten von 
 
 ## Noch keine Inhalte
 
-Du kannst diese Seite unter [github.com/awesome-diga](https://github.com/awesome-diga/tr-faq) mit deinem Wissen ergänzen.
+Du kannst diese Seite unter [github.com/diga-hub](https://github.com/diga-hub/tr-faq) mit deinem Wissen ergänzen.
