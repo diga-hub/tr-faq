@@ -8,4 +8,4 @@ remarks: Bei TLS-Verbindungen MUSS eine der in [TR02102-2], Kapitel 3.3.1 empfoh
 
 ## Noch keine Inhalte
 
-Du kannst diese Seite unter [github.com/awesome-diga](https://github.com/awesome-diga/tr-faq) mit deinem Wissen ergänzen.
+Du kannst diese Seite unter [github.com/diga-hub](https://github.com/diga-hub/tr-faq) mit deinem Wissen ergänzen.

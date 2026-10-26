@@ -12,7 +12,7 @@ Discussions and interactions on the repository can be in English or German. We d
 If you want to contribute content, you can create a Pull Request (PR) to this repository with the content you would like to contribute.
 Please make sure that you are okay with releasing the content into the world under the [Content License](./CONTENT_LICENSE.md) of the project.
 
-When contributing content to the FAQ Page, we currently only accept submissions in German. If that is not a language you are comfortable in for such contributions, please reach out to one of the maintainers. We will help you out. For details on this you can refer to [this issue](https://github.com/awesome-diga/tr-faq/issues/4).
+When contributing content to the FAQ Page, we currently only accept submissions in German. If that is not a language you are comfortable in for such contributions, please reach out to one of the maintainers. We will help you out. For details on this you can refer to [this issue](https://github.com/diga-hub/tr-faq/issues/4).
 
 ### On maximizing contribution value
 
@@ -27,7 +27,7 @@ From numerous talks we had, this is a major issue within the set of people we ta
 
 ## Contributing to Issues/Discussions
 
-For now, we are using [GitHub Issues](https://github.com/awesome-diga/tr-faq/issues) to discuss all kinds of
+For now, we are using [GitHub Issues](https://github.com/diga-hub/tr-faq/issues) to discuss all kinds of
 potential contributions.
 Starting or participating in discussions is a valuable contribution in and of itself.
 
